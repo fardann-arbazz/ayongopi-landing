@@ -7,7 +7,7 @@ export const Service = () => {
       <p className="my-6 text-base italic text-[#54595F]">
         Kami siap melayani anda dengan baik😁
       </p>
-      <div className="flex flex-col sm:flex-none justify-center sm:justify-normal items-center sm:items-stretch gap-4">
+      <div className="flex flex-col sm:flex-row justify-center sm:justify-normal items-center sm:items-stretch gap-4">
         <div className="flex flex-col gap-2 justify-between">
           <div className="sm:w-[20rem] w-[22rem] h-[20rem] cursor-pointer overflow-hidden group">
             <img

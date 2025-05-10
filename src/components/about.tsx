@@ -2,7 +2,7 @@ import { Button } from "./ui/button";
 
 export const About = () => {
   return (
-    <section className="mt-28 flex sm:flex-none flex-col gap-20 justify-center">
+    <section className="mt-28 flex sm:flex-row flex-col gap-20 justify-center">
       <div className="flex gap-6">
         <div className="w-[16rem] lg:mt-20 md:mt-20 mt-10">
           <img
