@@ -208,7 +208,7 @@ const Menu = () => {
       <h1 className="text-center mt-12 text-4xl text-sky-500 font-bold">
         Menu AyoNgopi
       </h1>
-      <p className="sm:w-[500px] text-center mt-4 text-gray-600">
+      <p className="sm:w-[500px] text-sm sm:text-base mx-6 sm:mx-0 text-center mt-4 text-gray-600">
         Kamu bisa download menu-menunya via Google Drive ya! Klik tombol di
         bawah untuk mengunduh 👌
       </p>
