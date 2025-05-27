@@ -144,6 +144,7 @@ const Menu = () => {
                 className="bg-white w-72 p-4 rounded-xl shadow-md hover:shadow-xl transition"
               >
                 <img
+                  loading="lazy"
                   src={
                     activeCategory === "drinks" &&
                     typeof item.image === "object"

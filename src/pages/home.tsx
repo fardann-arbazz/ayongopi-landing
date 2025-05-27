@@ -26,7 +26,7 @@ const Home = () => {
           <p className="text-center text-sky-500 font-bold text-4xl sm:text-5xl mt-1">
             Sekarang!
           </p>
-          <p className="text-center w-72 sm:w-0 sm:text-base my-7">
+          <p className="text-center w-72 sm:w-full sm:text-base my-7">
             Reservasi Sekarang dan Nikmati Momen Tak Terlupakan!
           </p>
           <Button className="bg-sky-400 py-5 cursor-pointer px-10 rounded-full hover:bg-white hover:border-sky-400 border hover:text-black transition-all">
